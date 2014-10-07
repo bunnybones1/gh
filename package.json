@@ -49,6 +49,7 @@
     "moment": "^2.8.3",
     "nopt": "^3.0.1",
     "open": "^0.0.5",
+    "shelljs": "^0.3.0",
     "truncate": "^1.0.2",
     "update-notifier": "^0.2.1",
     "userhome": "^0.1.0",
