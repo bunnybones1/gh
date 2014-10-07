@@ -858,6 +858,19 @@ gh user --login
     ```
 gh user --logout
     ```
+### 2. Whoami
+
+Option             | Usage        | Type
+---                | ---          | ---
+`-w`, `--whoami`   | **optional** | `Boolean`
+
+#### Examples
+
+* Prints your username to stdout. 
+
+    ```
+gh user --whoami
+    ```
 
 ## Alias
 
